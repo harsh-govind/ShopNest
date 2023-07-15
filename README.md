@@ -1,5 +1,6 @@
 # Ecommerce website using MERN
 Variables
+
 PORT=
 DB_URI=
 JWT_SECRET=
